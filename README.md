@@ -2,7 +2,7 @@
 
 # Portfolio Website
 
-🚀 **Live Website:** [View it here](https://andrew-court-portfolio.netlify.app/)
+🚀 **Live Website** _(right-click and open in a new tab/window if you'd like to keep this page open)_**:** [View it here](https://andrew-court-portfolio.netlify.app/)
 
 Welcome to my portfolio website! This site showcases my journey as a software developer through carefully crafted HTML, CSS, and JavaScript. Explore the following sections for more information:
 
