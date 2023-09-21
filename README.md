@@ -2,7 +2,7 @@
 
 # Portfolio Website
 
-🚀 **Live Website:** [View it here](https://tangerine-banoffee-4b93bd.netlify.app/)
+🚀 **Live Website:** [View it here](https://andrew-court-portfolio.netlify.app/)
 
 Welcome to my portfolio website! This site showcases my journey as a software developer through carefully crafted HTML, CSS, and JavaScript. Explore the following sections for more information:
 
