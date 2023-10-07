@@ -412,13 +412,17 @@ article .icon {
 
 .project-img {
     border-radius: 2rem;
-    width: 90%;
+    width: 100%;
     height: 90%;
 }
 
 .project-title {
     margin: 1rem;
     color: black;
+}
+
+#projects-section .article-container {
+    margin-bottom: 2rem;
 }
 
 .project-btn {
