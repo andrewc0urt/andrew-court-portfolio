@@ -68,6 +68,12 @@
 
 }
 
+@media screen and (min-width: 601px) and (max-width: 1199px) {
+  #profile-section {
+    height: auto; /* Remove the fixed height */
+}
+}
+
 @media screen and (max-width: 600px) {
   .intro {
     margin-bottom: 2rem;
@@ -156,13 +162,6 @@
       font-size: 2rem;
   }
 
-  .about-me-text-container {
-      /* text-align: justify; */
-  }
-
-  /* #experience-section {
-    margin-top: 34rem;
-  } */
 
   #contact-section {
     margin-top: 12rem;
